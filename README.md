@@ -1,5 +1,5 @@
 # Spotify Clone 
-A Spotify-inspired web player interface built using HTML5 and CSS3 as part of my Full Stack Web Development learning journey.
+A Spotify-inspired web player interface built using HTML5 and CSS3 as part of my Web Development learning journey.
 
 This project helped me practice structuring web pages, styling layouts, and recreating a familiar music-streaming interface.
 
